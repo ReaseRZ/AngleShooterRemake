@@ -1,0 +1,11 @@
+﻿  IGAME.cpp
+r:\randomgame\igame\igame\bullet.h(50): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+r:\randomgame\igame\igame\bullet.h(51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+r:\randomgame\igame\igame\block.h(73): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+r:\randomgame\igame\igame\block.h(74): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+r:\randomgame\igame\igame\particle.h(77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+r:\randomgame\igame\igame\particle.h(78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+r:\randomgame\igame\igame\igame.cpp(24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+r:\randomgame\igame\igame\igame.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IGAME.vcxproj -> R:\RandomGame\IGAME\Debug\IGAME.exe
+  IGAME.vcxproj -> R:\RandomGame\IGAME\Debug\IGAME.pdb (Full PDB)
